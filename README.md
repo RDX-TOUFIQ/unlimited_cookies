@@ -28,7 +28,7 @@
 
 - `rm -rf unlimited_cookies`
 
-- `https://github.com/RDX-TOUFIQ/unlimited_cookies`
+- `git clone https://github.com/RDX-TOUFIQ/unlimited_cookies`
 
 # Run Script
 
